@@ -1,4 +1,6 @@
 # ARTHUR-first-time-
-hello world 
+hello beautiful people 
 <br>
 author: ARTHUR 
+<br>
+this is my first time here on github 
